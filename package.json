@@ -1,0 +1,28 @@
+{
+  "name": "wit-messenger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewszucs/wit-messenger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrewszucs/wit-messenger/issues"
+  },
+  "homepage": "https://github.com/andrewszucs/wit-messenger#readme",
+  "engines": {
+    "node": "4.3.0"
+  },
+  "dependencies": {
+    "body-parser": "1.15.0",
+    "express": "4.13.4",
+    "request": "2.71.0"
+  }
+}
